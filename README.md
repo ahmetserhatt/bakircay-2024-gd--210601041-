@@ -23,3 +23,6 @@ Fruit Match Platform Game meyveleri eşleştirme ve doğru kombinasyonları plat
 1. Bu projeyi GitHub'dan klonlayın:
    ```bash
    git clone https://github.com/kullanıcı_adı/fruit-match-platform-game.git
+
+## Video Linki
+https://youtu.be/K4rOHMdAd70
